@@ -6,7 +6,7 @@
 ## Install
 
 ```
-$ npm install --global if-change-then-notify
+$ npm install --global ifctn
 ```
 
 
