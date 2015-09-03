@@ -6,15 +6,12 @@
 ## Install
 
 ```
-$ npm install --save if-change-then-notify
+$ npm install --global if-change-then-notify
 ```
 
 
 ## CLI
 
-```
-$ npm install --global if-change-then-notify
-```
 ```
 $ ifctn --help
 
